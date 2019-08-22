@@ -49,6 +49,11 @@ const GlobalStyle = () => (
                 font-size: 13px;
                 color: #333;
             }
+
+            .sub-heading-small{
+                width: 100%;
+                text-align: center;
+            }
         `}</style>
     </div>
 )

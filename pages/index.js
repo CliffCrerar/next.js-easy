@@ -1,3 +1,7 @@
+/**
+ * HOME
+ */
+
 import Layout from 'layout'
 
 const Home = () => (
@@ -9,10 +13,11 @@ const Home = () => (
         <p className='description'>
           Already configured with all you need to git clone and go!
           
-      </p>
-      <small>Courtesy of <a href="https://www.npmjs.com/package/next">Next.js</a></small>
+        </p>
+        <div class="sub-heading-small">
+          <small>Courtesy of <a href="https://www.npmjs.com/package/next">Next.js</a></small>
+        </div>
       
-
         <div className='row'>
 
           <a className='card' href=''>
