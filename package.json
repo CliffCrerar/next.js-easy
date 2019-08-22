@@ -1,0 +1,35 @@
+{
+  "name": "next.js-easy",
+  "version": "0.5.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "@zeit/next-sass": "*",
+    "@zeit/next-source-maps": "*",
+    "next": "*",
+    "next-compose-plugins": "*",
+    "node-sass": "*",
+    "react": "*",
+    "react-dom": "*"
+  },
+  "description": "# Version 3",
+  "main": "next.config.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CliffCrerar/next.js-easy.git"
+  },
+  "keywords": [
+    "next.js",
+    "preconfigured"
+  ],
+  "author": "Cliff Crerar (cliff.crerar@gmail.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/CliffCrerar/next.js-easy/issues"
+  },
+  "homepage": "https://github.com/CliffCrerar/next.js-easy#readme"
+}
