@@ -1,5 +1,5 @@
 /**
- * HOME
+ * HOME 
  */
 
 import Layout from 'layout'
